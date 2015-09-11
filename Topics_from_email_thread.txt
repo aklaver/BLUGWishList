@@ -1,0 +1,46 @@
+Topics from email thread
+from Bellingham Linux Users Group Mailing List blug-list@lists.blug.org, original message 9/9/2015
+
+Compare WordPress and Drupal, regarding ease of installation/maintenance, plugins, development platform  
+Containers, Dockers, other virtualization technologies
+
+Cyanogen Mod
+Internet of Things
+The Foundry Makerspace in Bellingham - 3D printing
+
+Setting up and using github to:
+a. Access and use open source solutions
+b. Contribute to other's open source efforts
+c. Create and host your own open source solution(s)
+
+A brief git primer would be a pre-requisite
+
+AI/machine learning
+data mining
+cryptography
+quantum computing
+programming languages
+concise tools for thought and one-liners
+APL
+j
+math and science
+Python libraries
+Scala
+Fortran
+Linux distributions
+Debian
+system admin
+how to add functionality to software while reducing bugs
+reproducible builds
+Trisquel
+open source copyrights
+code stability
+computational complexity
+data compression
+open source hardware
+software defined radio
+The Electronic Frontier Foundation
+biological effects of electromagnetic fields
+Royal Rife
+bitcoin
+ethereum
