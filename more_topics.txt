@@ -2,7 +2,7 @@ The dangers of closed platforms for FOSS users
 
 FOSS alternatives to closed platforms and applications
 
-Simple How-To/Demos on more everyday non-CS usages:
+Simple How-To/Demos on more mundane non-CS usages:
 - Use gimp to ... air brush, annotate, composite, red eye removal, change colors 
 - gnucash to ... migrate from Quicken, manage stocks accounts, other financial mgt tasks
 - audacity to ... record LPs, concatenate clips, remove noise, change sound levels
