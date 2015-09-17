@@ -8,3 +8,11 @@ Simple How-To/Demos on more mundane non-CS usages:
 - audacity to ... record LPs, concatenate clips, remove noise, change sound levels
 - kdenlive to ... add a movie title, add music background, sync sound & video, create video from photos
 
+command-line magic:
+how to use grep and awk
+pipng data through various filters
+tutorial on regular expressions
+Regexp to make the most of grep. LibreOffice & OpenOffice allow some regular expressions in find dialogs; people who mostly use 
+GUIs can make use of regular expression searches.
+
+Simple to understand explanation of regexp
