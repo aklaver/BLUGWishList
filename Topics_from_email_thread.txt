@@ -6,7 +6,7 @@ Containers, Dockers, other virtualization technologies
 
 Cyanogen Mod
 Internet of Things
-The Foundry Makerspace in Bellingham - 3D printing
+The Foundry Makerspace in Bellingham - 3D printing DONE 10/01/2015 By Mary Keane of the Foundry Makerspace
 
 Setting up and using github to:
 a. Access and use open source solutions
